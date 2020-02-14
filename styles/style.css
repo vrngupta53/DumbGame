@@ -1,0 +1,81 @@
+#startContent{
+    text-align: center;
+    margin-top: 200px
+}
+.startPage{
+    text-align: center;
+}
+
+#startButton{
+    background-color: black;
+    color: red;
+    height: 100px;
+    width: 500px;
+    font-size: 50px;
+}
+
+#startButton:hover{
+    background-color: red;
+    color: black;
+}
+
+.generateButton{
+    background-color: black;
+    color: red;
+    height: 100px;
+    width: 400px;
+    font-size: 40px;
+}
+
+.generateButton:hover{
+    background-color: red;
+    color: black;
+}
+
+#gameCanvas{
+    margin-top: 50px;
+}
+
+#instructionPrompt{
+    font-size: 40px;
+}
+
+#red{
+    color: red;
+}
+
+#hsButton{
+    background-color: black;
+    color: red;
+    height: 100px;
+    width: 400px;
+    font-size: 40px;
+}
+
+#hsButton:hover{
+    background-color: red;
+    color: black;
+}
+#replayButton{
+    background-color: black;
+    color: red;
+    height: 100px;
+    width: 400px;
+    font-size: 40px;
+}
+
+#replayButton:hover{
+    background-color: red;
+    color: black;
+}
+
+#winMessage{
+    color: red;
+    font-size: 40px;
+}
+
+.highScore{
+    color: black;
+    font-size: 40px;
+    margin: 10px;
+}
